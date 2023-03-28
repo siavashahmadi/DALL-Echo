@@ -12,4 +12,4 @@ Siavash Ahmadi
 
 sia@siaa.dev
 
-[siaa.dev](siaa.dev)
+siaa.dev
